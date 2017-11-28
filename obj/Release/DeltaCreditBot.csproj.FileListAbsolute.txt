@@ -1,0 +1,414 @@
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\ApplicationInsights.config
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\DeltaCreditBot.dll.config
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\DeltaCreditBot.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\DeltaCreditBot.pdb
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csc.exe
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csc.exe.config
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csc.rsp
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csi.exe
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csi.exe.config
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csi.rsp
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.AppContext.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Console.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Diagnostics.Process.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.Compression.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.Pipes.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.AccessControl.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Claims.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Principal.Windows.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Threading.Thread.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.ValueTuple.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.XmlDocument.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.XPath.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\vbc.exe
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\vbc.exe.config
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\vbc.rsp
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\VBCSCompiler.exe
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Antlr3.Runtime.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.Web.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.Win32.Primitives.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Newtonsoft.Json.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.AppContext.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Console.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Diagnostics.DiagnosticSource.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Diagnostics.Tracing.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Globalization.Calendars.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.IO.Compression.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.IO.Compression.ZipFile.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.IO.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.IO.FileSystem.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.IO.FileSystem.Primitives.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Linq.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Linq.Expressions.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Http.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Http.Formatting.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Sockets.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Reflection.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.Extensions.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.InteropServices.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.Algorithms.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.Encoding.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.Primitives.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.X509Certificates.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Text.RegularExpressions.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Helpers.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.WebHost.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Mvc.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Optimization.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Razor.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Razor.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Xml.ReaderWriter.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Telegram.Bot.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\WebGrease.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Antlr3.Runtime.pdb
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.Web.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\Newtonsoft.Json.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Diagnostics.DiagnosticSource.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Http.Formatting.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.WebHost.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Helpers.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Mvc.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Optimization.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Razor.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Razor.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Helpers.resources.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Mvc.resources.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Optimization.resources.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Razor.resources.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.WebPages.resources.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.csprojResolveAssemblyReference.cache
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.csproj.CoreCompileInputs.cache
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.pdb
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\BouncyCastle.Crypto.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\MailKit.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\MimeKit.dll
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\MailKit.xml
+c:\Users\Фаузат\Documents\Visual Studio 2017\Projects\DeltaCreditBot\DeltaCreditBot\bin\MimeKit.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ApplicationInsights.config
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\DeltaCreditBot.dll.config
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\DeltaCreditBot.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\DeltaCreditBot.pdb
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csc.exe
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csc.exe.config
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csc.rsp
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csi.exe
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csi.exe.config
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csi.rsp
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.AppContext.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Console.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.Compression.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Claims.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.ValueTuple.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\vbc.exe
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\vbc.exe.config
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\vbc.rsp
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Antlr3.Runtime.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\BouncyCastle.Crypto.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\MailKit.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.Web.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\MimeKit.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Newtonsoft.Json.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.AppContext.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Console.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Diagnostics.Tracing.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Globalization.Calendars.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.Compression.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.FileSystem.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Linq.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Linq.Expressions.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Http.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Sockets.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Reflection.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.Extensions.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.InteropServices.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Text.RegularExpressions.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Helpers.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Mvc.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Optimization.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Razor.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Razor.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Xml.ReaderWriter.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Telegram.Bot.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\WebGrease.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Antlr3.Runtime.pdb
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\MailKit.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.Web.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\MimeKit.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Newtonsoft.Json.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Helpers.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Mvc.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Optimization.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Razor.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Razor.xml
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.csprojResolveAssemblyReference.cache
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.csproj.CoreCompileInputs.cache
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.dll
+C:\Users\Trainee\Desktop\Projects\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.pdb
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ApplicationInsights.config
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\DeltaCreditBot.dll.config
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\DeltaCreditBot.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\DeltaCreditBot.pdb
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csc.exe
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csc.exe.config
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csc.rsp
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csi.exe
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csi.exe.config
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\csi.rsp
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.AppContext.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Console.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.Compression.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Claims.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.ValueTuple.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\vbc.exe
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\vbc.exe.config
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\vbc.rsp
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Antlr3.Runtime.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\BouncyCastle.Crypto.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\MailKit.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.Web.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\MimeKit.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Newtonsoft.Json.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.AppContext.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Console.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Diagnostics.Tracing.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Globalization.Calendars.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.Compression.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.FileSystem.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Linq.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Linq.Expressions.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Http.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Sockets.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Reflection.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.Extensions.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.InteropServices.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Text.RegularExpressions.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Helpers.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Mvc.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Optimization.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Razor.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Razor.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Xml.ReaderWriter.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Telegram.Bot.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\WebGrease.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Antlr3.Runtime.pdb
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\MailKit.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.Web.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\MimeKit.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\Newtonsoft.Json.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Helpers.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Mvc.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Optimization.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.Razor.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\System.Web.WebPages.Razor.xml
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.csprojResolveAssemblyReference.cache
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.csproj.CoreCompileInputs.cache
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.dll
+C:\Users\Фаузат\Desktop\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\DeltaCreditBot\obj\Release\DeltaCreditBot.pdb
